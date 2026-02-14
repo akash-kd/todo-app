@@ -94,7 +94,7 @@ todo-app/
 ## Screenshots
 
 ### Initial View
-![Todo Application](https://github.com/user-attachments/assets/a6d3662e-0850-4865-b5fa-686m2e3b9976)
+![Todo Application](https://github.com/user-attachments/assets/a6d3662e-0850-4865-b5fa-686e2e3b9976)
 
 ### With Multiple Sections and Completed Todos
 ![Todo Application with Sections](https://github.com/user-attachments/assets/c315a5c1-c740-4c40-b3fa-333a742cab14)
